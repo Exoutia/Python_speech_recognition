@@ -8,4 +8,4 @@ here i will note what am i using this is just for noting purpose after completin
      1. Download Zip file according to you system
      2. Extract that and name the folder "mpg123" move the folder into "c:\Program Files".
      3. Create a new environment variable by copy pasting the path of mpg123 into right place.
-     Its just my experience it could or could not work for you. 
+     Its just my experience it could or could not work for you hope it helps. 
