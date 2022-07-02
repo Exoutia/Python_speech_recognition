@@ -1,6 +1,6 @@
 import json
 import requests
-from api_key import API_KEY
+from config import API_KEY
 
 from api_comunicate import upload, transcription, get_transcription_result, save_file
 
