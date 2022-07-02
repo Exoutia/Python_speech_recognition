@@ -1,6 +1,6 @@
 from time import sleep
 
-from api_key import API_KEY
+from config import API_KEY
 
 from requests import get
 from requests import post
